@@ -1,0 +1,12 @@
+    {
+        "abbr": "GTC", // token symbol
+        "value": "GTC", // same as abbr
+        "protocol": "ERC20_PROTOCOL",
+        "blockchain": "ETHEREUM",
+        "label": "GLOBAL TRUST COIN", // token display name
+        "ticker": "GTC",
+        "explorer": "https://etherscan.io",
+        "token": "0xe138FDa441fC31B36171122397a8A11d6cd2c479", // token contract address
+        "decimals": 0,
+        "pairs": ["BTC", "ETH"] // this will add JOY/BCH and JOY/TANGO to the list of liquidity pools
+    }
